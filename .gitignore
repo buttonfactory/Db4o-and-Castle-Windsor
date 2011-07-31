@@ -1,0 +1,14 @@
+obj
+bin
+*.csproj.user
+*.suo
+*.cache
+Thumbs.db
+ 
+# Other useful stuff
+*.bak
+*.cache
+*.log
+*.swp
+*.user
+packages
